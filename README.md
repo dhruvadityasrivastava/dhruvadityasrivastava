@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dhruvadityasrivastava
-- 👀 I’m interested in data analysis in biology, finance and production
+- 👀 I’m interested in data analysis in biology, finance, and production
 - 📫 How to reach me dhruvaditya88@gmail.com
 
 
